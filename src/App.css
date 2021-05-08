@@ -2,6 +2,13 @@
   text-align: center;
 }
 
+.txt {
+  color: #282c34;
+}
+
+.card_img {
+  width: 18rem;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
